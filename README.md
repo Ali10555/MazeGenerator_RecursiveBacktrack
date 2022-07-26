@@ -1,6 +1,14 @@
 # MazeGenerator_RecursiveBacktrack
+
+This maze generation is based on Recursive Backtrack algorithm.
+
+
+There are other methods to do better maze generation, which I might follow soon.
+
  
 Check out following page for the Algorithrm explanation.
+
+
 https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_backtracker
 
 
